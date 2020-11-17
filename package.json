@@ -1,0 +1,13 @@
+{
+  "name": "PaymentChannel",
+  "version": "1.0.0",
+  "description": "Example of payment channel using blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/rdCenteno/PaymentChannel.git",
+  "author": "Ronny Demera",
+  "license": "MIT",
+  "dependencies": {
+    "ganache-cli": "6.12.1",
+    "truffle": "5.1.53"
+  }
+}
