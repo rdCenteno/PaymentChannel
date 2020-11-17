@@ -8,8 +8,8 @@
   "license": "MIT",
   "scripts": {
     "truffle:init": "truffle init",
-    "truffle:migrate": "truffle migrate --reset",
     "truffle:compile": "truffle compile",
+    "truffle:migrate": "truffle migrate --reset",
     "ganache": "ganache-cli -p 8545 -i 5777"
   },
   "dependencies": {
