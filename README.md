@@ -1,2 +1,2 @@
 # PaymentChannel
-Different examples of a payment channel
+Different examples of a payment channel using blockchain
