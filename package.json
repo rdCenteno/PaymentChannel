@@ -10,6 +10,7 @@
     "truffle:init": "truffle init",
     "truffle:compile": "truffle compile",
     "truffle:migrate": "truffle migrate --reset",
+    "truffle:test": "truffle test",
     "ganache": "ganache-cli -p 8545 -i 5777"
   },
   "dependencies": {
